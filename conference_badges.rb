@@ -32,7 +32,7 @@ def printer(name)
     puts x
   }
   
-  assign_rooms(room) {|y|
+  assign_rooms(name) {|y|
     puts y
   }
 
