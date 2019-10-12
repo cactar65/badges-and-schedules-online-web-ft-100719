@@ -16,7 +16,14 @@ def batch_badge_creator(name)
 end
 
 
-def assign_rooms()
+def assign_rooms(name)
+  
+  name.each_with_index? 
+  
+end
+
+
+def printer(name)
   
   
   
