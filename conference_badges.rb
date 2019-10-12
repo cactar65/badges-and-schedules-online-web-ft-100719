@@ -36,6 +36,6 @@ def printer(name)
   assign_rooms(room) {|y|
     puts y
   }
-  
+end 
   
 end
