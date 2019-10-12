@@ -11,6 +11,8 @@ def batch_badge_creator(name)
   badge = []
   name.each {|x| badge << "Hello, my name is #{x}."}
   
+  return badge
+  
 end
 
 
